@@ -7,4 +7,6 @@ body{
     height: 100vh;
     justify-content: center;
     background-color: tomato;
+    gap: 5;
+    flex-direction: column;
 }
